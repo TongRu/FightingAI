@@ -17,7 +17,7 @@ This is the official implementation with *training* code for SiamMask (CVPR2019)
 ## Contents
 
 1. [Environment Setup](#environment-setup)
-2. [Code structure](#code structure)
+2. [Code structure](#code-structure)
 
 ## Environment setup
 
@@ -55,7 +55,7 @@ pip install port_for
 pip install opencv-python
 ```
 
-## Code structure
+## Code-structure
 
 .\fightingice_env.py: starting code of the Fighting Game Platform;
 

@@ -4,9 +4,9 @@
 
 **AI Solutions for Fighting Game Based on Traditional Reinforcement Learning Algorithms**
 
-two traditional reinforcement algorithms Q-learning and Monte Carlo
+Two traditional reinforcement algorithms Q-learning and Monte Carlo
 
-This is the official implementation with *training* code for SiamMask (CVPR2019). For technical details, please refer to:
+Introduction of Fighting Game AI Competition：http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index.htm
 
 **[[Paper](http)] [[DemoVideo](https://github.com/TongRu/FightingAI/blob/master/demo/demo-P2(designedFightingAI).mp4)] [[Project Page](https://github.com/TongRu/FightingAI)]** <br />
 

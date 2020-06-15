@@ -8,7 +8,7 @@ two traditional reinforcement algorithms Q-learning and Monte Carlo
 
 This is the official implementation with *training* code for SiamMask (CVPR2019). For technical details, please refer to:
 
-**[[Paper](http)] [[DemoVideo](https://github.com/TongRu/FightingAI/demo/demo-P2(designedFightingAI).mp4)] [[Project Page](https://github.com/TongRu/FightingAI)]** <br />
+**[[Paper](http)] [[DemoVideo](https://github.com/TongRu/FightingAI/blob/master/demo/demo-P2(designedFightingAI).mp4)] [[Project Page](https://github.com/TongRu/FightingAI)]** <br />
 
 <div align="center">
   <img src="https://github.com/TongRu/FightingAI/blob/master/demo/FightingAI.png" width="600px" />
@@ -17,7 +17,7 @@ This is the official implementation with *training* code for SiamMask (CVPR2019)
 ## Contents
 
 1. [Environment Setup](#environment-setup)
-2. [Code structure](#Code structure)
+2. [Code structure](#code structure)
 
 ## Environment setup
 
